@@ -1,250 +1,250 @@
-,index,Country,Country Code,Player Count
-0,105,British Indian Ocean Territory,IO,276922
-1,104,India,IN,276922
-2,76,United Kingdom of Great Britain and Northern Ireland,GB,192118
-3,74,France,FR,176560
-4,30,Brazil,BR,147040
-5,37,Canada,CA,134687
-6,38,Cocos (Keeling) Islands,CC,134687
-7,56,Germany,DE,117887
-8,109,Italy,IT,117604
-9,67,Spain,ES,112180
-10,178,Poland,PL,108111
-11,190,Russian Federation,RU,103656
-12,224,Turkey,TR,95593
-13,165,Netherlands,NL,71821
-14,12,Australia,AU,71003
-15,156,Mexico,MX,65853
-16,9,Argentina,AR,50724
-17,176,Philippines,PH,46917
-18,166,Norway,NO,43165
-19,196,Sweden,SE,42244
-20,229,Ukraine,UA,36756
-21,100,Indonesia,ID,33975
-22,19,Belgium,BE,33008
-23,102,Israel,IL,30015
-24,48,Colombia,CO,29908
-25,64,Egypt,EG,28314
-26,107,Iran (Islamic Republic of),IR,26116
-27,42,Switzerland,CH,25431
-28,188,Romania,RO,24026
-29,88,Greece,GR,22924
-30,240,Viet Nam,VN,21078
-31,45,Chile,CL,20813
-32,58,Denmark,DK,20806
-33,101,Ireland,IE,19961
-34,183,Portugal,PT,19328
-35,189,Serbia,RS,18847
-36,192,Saudi Arabia,SA,18555
-37,55,Czechia,CZ,18063
-38,246,South Africa,ZA,17866
-39,69,Finland,FI,16719
-40,197,Singapore,SG,16341
-41,198,"Saint Helena, Ascension and Tristan da Cunha",SH,16341
-42,11,Austria,AT,16167
-43,99,Hungary,HU,15893
-44,174,French Polynesia,PF,15811
-45,173,Peru,PE,15811
-46,157,Malaysia,MY,14732
-47,124,Kazakhstan,KZ,13270
-48,97,Croatia,HR,12836
-49,121,"Korea, Republic of",KR,12150
-50,170,New Zealand,NZ,11659
-51,177,Pakistan,PK,11287
-52,21,Bulgaria,BG,10757
-53,1,United Arab Emirates,AE,10692
-54,15,Azerbaijan,AZ,9681
-55,136,Morocco,MA,9459
-56,78,Georgia,GE,9426
-57,201,Slovakia,SK,8629
-58,5,Albania,AL,8454
-59,132,Lithuania,LT,8145
-60,113,Japan,JP,7480
-61,200,Svalbard and Jan Mayen,SJ,7362
-62,199,Slovenia,SI,7362
-63,237,Venezuela (Bolivarian Republic of),VE,7188
-64,47,China,CN,6845
-65,95,Heard Island and McDonald Islands,HM,6651
-66,94,Hong Kong,HK,6651
-67,62,Ecuador,EC,6621
-68,18,Bangladesh,BD,6490
-69,217,Thailand,TH,6367
-70,163,Nigeria,NG,6221
-71,6,Armenia,AM,6220
-72,35,Belarus,BY,5956
-73,16,Bosnia and Herzegovina,BA,5946
-74,222,Tunisia,TN,5933
-75,233,Uruguay,UY,5928
-76,126,Lebanon,LB,5865
-77,61,Algeria,DZ,5828
-78,106,Iraq,IQ,5444
-79,112,Jordan,JO,4734
-80,143,North Macedonia,MK,4492
-81,108,Iceland,IS,4442
-82,146,Mongolia,MN,4362
-83,60,Dominican Republic,DO,4330
-84,134,Latvia,LV,4297
-85,167,Nepal,NP,4237
-86,49,Costa Rica,CR,4099
-87,63,Estonia,EE,3856
-88,211,Syrian Arab Republic,SY,3463
-89,129,Sri Lanka,LK,3432
-90,181,Puerto Rico,PR,3407
-91,227,"Taiwan, Province of China",TW,3370
-92,145,Myanmar,MM,3322
-93,234,Uzbekistan,UZ,3276
-94,90,Guatemala,GT,2882
-95,28,Bolivia (Plurinational State of),BO,2789
-96,29,"Bonaire, Sint Eustatius and Saba",BQ,2789
-97,185,Paraguay,PY,2749
-98,122,Kuwait,KW,2727
-99,114,Kenya,KE,2700
-100,138,"Moldova, Republic of",MD,2384
-101,182,"Palestine, State of",PS,2381
-102,115,Kyrgyzstan,KG,2285
-103,186,Qatar,QA,2263
-104,54,Cyprus,CY,2082
-105,50,Cuba,CU,2028
-106,171,Oman,OM,1995
-107,133,Luxembourg,LU,1994
-108,140,Saint Martin (French part),MF,1964
-109,139,Montenegro,ME,1964
-110,172,Panama,PA,1893
-111,2,Afghanistan,AF,1890
-112,96,Honduras,HN,1824
-113,209,El Salvador,SV,1803
-114,22,Bahrain,BH,1531
-115,248,Zimbabwe,ZW,1448
-116,111,Jamaica,JM,1418
-117,152,Malta,MT,1397
-118,195,Sudan,SD,1369
-119,164,Nicaragua,NI,1317
-120,135,Libya,LY,1180
-121,120,Korea (Democratic People's Republic of),KP,1122
-122,235,Holy See,VA,995
-123,225,Trinidad and Tobago,TT,892
-124,154,Maldives,MV,880
-125,81,Ghana,GH,851
-126,244,Yemen,YE,820
-127,247,Zambia,ZM,817
-128,232,United States of America,US,782
-129,231,United States Minor Outlying Islands,UM,782
-130,230,Uganda,UG,782
-131,0,Andorra,AD,768
-132,103,Isle of Man,IM,732
-133,116,Cambodia,KH,731
-134,153,Mauritius,MU,667
-135,73,Faroe Islands,FO,667
-136,8,Antarctica,AQ,647
-137,7,Angola,AO,647
-138,27,Brunei Darussalam,BN,549
-139,68,Ethiopia,ET,526
-140,141,Madagascar,MG,524
-141,34,Botswana,BW,488
-142,187,R‚union,RE,485
-143,205,Somalia,SO,475
-144,98,Haiti,HT,463
-145,219,Tokelau,TK,461
-146,218,Tajikistan,TJ,461
-147,158,Mozambique,MZ,425
-148,159,Namibia,,425
-149,17,Barbados,BB,400
-150,110,Jersey,JE,393
-151,91,Guam,GU,393
-152,125,Lao People's Democratic Republic,LA,391
-153,239,Virgin Islands (U.S.),VI,376
-154,147,Macao,MO,372
-155,148,Northern Mariana Islands,MP,372
-156,83,Greenland,GL,369
-157,31,Bahamas,BS,366
-158,46,Cameroon,CM,356
-159,221,Turkmenistan,TM,343
-160,204,Senegal,SN,342
-161,13,Aruba,AW,319
-162,86,Guadeloupe,GP,307
-163,194,Seychelles,SC,297
-164,228,"Tanzania, United Republic of",TZ,288
-165,70,Fiji,FJ,286
-166,26,Bermuda,BM,273
-167,82,Gibraltar,GI,272
-168,44,Cook Islands,CK,267
-169,43,Cote d'Ivoire,CI,267
-170,137,Monaco,MC,265
-171,3,Antigua and Barbuda,AG,259
-172,149,Martinique,MQ,258
-173,32,Bhutan,BT,230
-174,33,Bouvet Island,BV,230
-175,123,Cayman Islands,KY,227
-176,52,Cura‡ao,CW,222
-177,53,Christmas Island,CX,222
-178,36,Belize,BZ,212
-179,206,Suriname,SR,202
-180,93,Guyana,GY,200
-181,39,"Congo, Democratic Republic of the",CD,194
-182,180,Pitcairn,PN,194
-183,179,Saint Pierre and Miquelon,PM,194
-184,80,Guernsey,GG,191
-185,127,Saint Lucia,LC,175
-186,241,Vanuatu,VU,173
-187,242,Wallis and Futuna,WF,173
-188,155,Malawi,MW,172
-189,175,Papua New Guinea,PG,171
-190,51,Cabo Verde,CV,170
-191,191,Rwanda,RW,167
-192,161,Niger,NE,167
-193,162,Norfolk Island,NF,167
-194,203,San Marino,SM,162
-195,117,Kiribati,KI,159
-196,160,New Caledonia,NC,157
-197,150,Mauritania,MR,157
-198,226,Tuvalu,TV,155
-199,128,Liechtenstein,LI,152
-200,10,American Samoa,AS,145
-201,57,Djibouti,DJ,143
-202,72,Micronesia (Federated States of),FM,138
-203,65,Western Sahara,EH,135
-204,238,Virgin Islands (British),VG,128
-205,243,Samoa,WS,127
-206,216,Togo,TG,124
-207,131,Lesotho,LS,121
-208,75,Gabon,GA,120
-209,119,Saint Kitts and Nevis,KN,118
-210,4,Anguilla,AI,114
-211,215,French Southern Territories,TF,106
-212,214,Chad,TD,106
-213,220,Timor-Leste,TL,106
-214,184,Palau,PW,102
-215,212,Eswatini,SZ,101
-216,24,Benin,BJ,101
-217,20,Burkina Faso,BF,101
-218,25,Saint Barth‚lemy,BL,101
-219,236,Saint Vincent and the Grenadines,VC,99
-220,66,Eritrea,ER,98
-221,14,land Islands,AX,92
-222,77,Grenada,GD,91
-223,223,Tonga,TO,91
-224,41,Congo,CG,84
-225,208,Sao Tome and Principe,ST,81
-226,202,Sierra Leone,SL,81
-227,23,Burundi,BI,78
-228,207,South Sudan,SS,78
-229,193,Solomon Islands,SB,77
-230,144,Mali,ML,77
-231,142,Marshall Islands,MH,77
-232,130,Liberia,LR,76
-233,168,Nauru,NR,70
-234,169,Niue,NU,70
-235,71,Falkland Islands (Malvinas),FK,70
-236,79,French Guiana,GF,63
-237,84,Gambia,GM,56
-238,59,Dominica,DM,54
-239,213,Turks and Caicos Islands,TC,53
-240,87,Equatorial Guinea,GQ,53
-241,85,Guinea,GN,51
-242,40,Central African Republic,CF,43
-243,151,Montserrat,MS,35
-244,118,Comoros,KM,35
-245,92,Guinea-Bissau,GW,30
-246,245,Mayotte,YT,25
-247,210,Sint Maarten (Dutch part),SX,25
-248,89,South Georgia and the South Sandwich Islands,GS,23
+,Country,Country Code,Player Count
+0,British Indian Ocean Territory,IO,276922
+1,India,IN,276922
+2,United Kingdom of Great Britain and Northern Ireland,GB,192118
+3,France,FR,176560
+4,Brazil,BR,147040
+5,Canada,CA,134687
+6,Cocos (Keeling) Islands,CC,134687
+7,Germany,DE,117887
+8,Italy,IT,117604
+9,Spain,ES,112180
+10,Poland,PL,108111
+11,Russian Federation,RU,103656
+12,Turkey,TR,95593
+13,Netherlands,NL,71821
+14,Australia,AU,71003
+15,Mexico,MX,65853
+16,Argentina,AR,50724
+17,Philippines,PH,46917
+18,Norway,NO,43165
+19,Sweden,SE,42244
+20,Ukraine,UA,36756
+21,Indonesia,ID,33975
+22,Belgium,BE,33008
+23,Israel,IL,30015
+24,Colombia,CO,29908
+25,Egypt,EG,28314
+26,Iran (Islamic Republic of),IR,26116
+27,Switzerland,CH,25431
+28,Romania,RO,24026
+29,Greece,GR,22924
+30,Viet Nam,VN,21078
+31,Chile,CL,20813
+32,Denmark,DK,20806
+33,Ireland,IE,19961
+34,Portugal,PT,19328
+35,Serbia,RS,18847
+36,Saudi Arabia,SA,18555
+37,Czechia,CZ,18063
+38,South Africa,ZA,17866
+39,Finland,FI,16719
+40,Singapore,SG,16341
+41,"Saint Helena, Ascension and Tristan da Cunha",SH,16341
+42,Austria,AT,16167
+43,Hungary,HU,15893
+44,French Polynesia,PF,15811
+45,Peru,PE,15811
+46,Malaysia,MY,14732
+47,Kazakhstan,KZ,13270
+48,Croatia,HR,12836
+49,"Korea, Republic of",KR,12150
+50,New Zealand,NZ,11659
+51,Pakistan,PK,11287
+52,Bulgaria,BG,10757
+53,United Arab Emirates,AE,10692
+54,Azerbaijan,AZ,9681
+55,Morocco,MA,9459
+56,Georgia,GE,9426
+57,Slovakia,SK,8629
+58,Albania,AL,8454
+59,Lithuania,LT,8145
+60,Japan,JP,7480
+61,Svalbard and Jan Mayen,SJ,7362
+62,Slovenia,SI,7362
+63,Venezuela (Bolivarian Republic of),VE,7188
+64,China,CN,6845
+65,Heard Island and McDonald Islands,HM,6651
+66,Hong Kong,HK,6651
+67,Ecuador,EC,6621
+68,Bangladesh,BD,6490
+69,Thailand,TH,6367
+70,Nigeria,NG,6221
+71,Armenia,AM,6220
+72,Belarus,BY,5956
+73,Bosnia and Herzegovina,BA,5946
+74,Tunisia,TN,5933
+75,Uruguay,UY,5928
+76,Lebanon,LB,5865
+77,Algeria,DZ,5828
+78,Iraq,IQ,5444
+79,Jordan,JO,4734
+80,North Macedonia,MK,4492
+81,Iceland,IS,4442
+82,Mongolia,MN,4362
+83,Dominican Republic,DO,4330
+84,Latvia,LV,4297
+85,Nepal,NP,4237
+86,Costa Rica,CR,4099
+87,Estonia,EE,3856
+88,Syrian Arab Republic,SY,3463
+89,Sri Lanka,LK,3432
+90,Puerto Rico,PR,3407
+91,"Taiwan, Province of China",TW,3370
+92,Myanmar,MM,3322
+93,Uzbekistan,UZ,3276
+94,Guatemala,GT,2882
+95,Bolivia (Plurinational State of),BO,2789
+96,"Bonaire, Sint Eustatius and Saba",BQ,2789
+97,Paraguay,PY,2749
+98,Kuwait,KW,2727
+99,Kenya,KE,2700
+100,"Moldova, Republic of",MD,2384
+101,"Palestine, State of",PS,2381
+102,Kyrgyzstan,KG,2285
+103,Qatar,QA,2263
+104,Cyprus,CY,2082
+105,Cuba,CU,2028
+106,Oman,OM,1995
+107,Luxembourg,LU,1994
+108,Saint Martin (French part),MF,1964
+109,Montenegro,ME,1964
+110,Panama,PA,1893
+111,Afghanistan,AF,1890
+112,Honduras,HN,1824
+113,El Salvador,SV,1803
+114,Bahrain,BH,1531
+115,Zimbabwe,ZW,1448
+116,Jamaica,JM,1418
+117,Malta,MT,1397
+118,Sudan,SD,1369
+119,Nicaragua,NI,1317
+120,Libya,LY,1180
+121,Korea (Democratic People's Republic of),KP,1122
+122,Holy See,VA,995
+123,Trinidad and Tobago,TT,892
+124,Maldives,MV,880
+125,Ghana,GH,851
+126,Yemen,YE,820
+127,Zambia,ZM,817
+128,United States of America,US,782
+129,United States Minor Outlying Islands,UM,782
+130,Uganda,UG,782
+131,Andorra,AD,768
+132,Isle of Man,IM,732
+133,Cambodia,KH,731
+134,Mauritius,MU,667
+135,Faroe Islands,FO,667
+136,Antarctica,AQ,647
+137,Angola,AO,647
+138,Brunei Darussalam,BN,549
+139,Ethiopia,ET,526
+140,Madagascar,MG,524
+141,Botswana,BW,488
+142,R‚union,RE,485
+143,Somalia,SO,475
+144,Haiti,HT,463
+145,Tokelau,TK,461
+146,Tajikistan,TJ,461
+147,Mozambique,MZ,425
+148,Namibia,,425
+149,Barbados,BB,400
+150,Jersey,JE,393
+151,Guam,GU,393
+152,Lao People's Democratic Republic,LA,391
+153,Virgin Islands (U.S.),VI,376
+154,Macao,MO,372
+155,Northern Mariana Islands,MP,372
+156,Greenland,GL,369
+157,Bahamas,BS,366
+158,Cameroon,CM,356
+159,Turkmenistan,TM,343
+160,Senegal,SN,342
+161,Aruba,AW,319
+162,Guadeloupe,GP,307
+163,Seychelles,SC,297
+164,"Tanzania, United Republic of",TZ,288
+165,Fiji,FJ,286
+166,Bermuda,BM,273
+167,Gibraltar,GI,272
+168,Cook Islands,CK,267
+169,Cote d'Ivoire,CI,267
+170,Monaco,MC,265
+171,Antigua and Barbuda,AG,259
+172,Martinique,MQ,258
+173,Bhutan,BT,230
+174,Bouvet Island,BV,230
+175,Cayman Islands,KY,227
+176,Cura‡ao,CW,222
+177,Christmas Island,CX,222
+178,Belize,BZ,212
+179,Suriname,SR,202
+180,Guyana,GY,200
+181,"Congo, Democratic Republic of the",CD,194
+182,Pitcairn,PN,194
+183,Saint Pierre and Miquelon,PM,194
+184,Guernsey,GG,191
+185,Saint Lucia,LC,175
+186,Vanuatu,VU,173
+187,Wallis and Futuna,WF,173
+188,Malawi,MW,172
+189,Papua New Guinea,PG,171
+190,Cabo Verde,CV,170
+191,Rwanda,RW,167
+192,Niger,NE,167
+193,Norfolk Island,NF,167
+194,San Marino,SM,162
+195,Kiribati,KI,159
+196,New Caledonia,NC,157
+197,Mauritania,MR,157
+198,Tuvalu,TV,155
+199,Liechtenstein,LI,152
+200,American Samoa,AS,145
+201,Djibouti,DJ,143
+202,Micronesia (Federated States of),FM,138
+203,Western Sahara,EH,135
+204,Virgin Islands (British),VG,128
+205,Samoa,WS,127
+206,Togo,TG,124
+207,Lesotho,LS,121
+208,Gabon,GA,120
+209,Saint Kitts and Nevis,KN,118
+210,Anguilla,AI,114
+211,French Southern Territories,TF,106
+212,Chad,TD,106
+213,Timor-Leste,TL,106
+214,Palau,PW,102
+215,Eswatini,SZ,101
+216,Benin,BJ,101
+217,Burkina Faso,BF,101
+218,Saint Barth‚lemy,BL,101
+219,Saint Vincent and the Grenadines,VC,99
+220,Eritrea,ER,98
+221,land Islands,AX,92
+222,Grenada,GD,91
+223,Tonga,TO,91
+224,Congo,CG,84
+225,Sao Tome and Principe,ST,81
+226,Sierra Leone,SL,81
+227,Burundi,BI,78
+228,South Sudan,SS,78
+229,Solomon Islands,SB,77
+230,Mali,ML,77
+231,Marshall Islands,MH,77
+232,Liberia,LR,76
+233,Nauru,NR,70
+234,Niue,NU,70
+235,Falkland Islands (Malvinas),FK,70
+236,French Guiana,GF,63
+237,Gambia,GM,56
+238,Dominica,DM,54
+239,Turks and Caicos Islands,TC,53
+240,Equatorial Guinea,GQ,53
+241,Guinea,GN,51
+242,Central African Republic,CF,43
+243,Montserrat,MS,35
+244,Comoros,KM,35
+245,Guinea-Bissau,GW,30
+246,Mayotte,YT,25
+247,Sint Maarten (Dutch part),SX,25
+248,South Georgia and the South Sandwich Islands,GS,23
