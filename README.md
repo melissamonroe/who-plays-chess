@@ -12,3 +12,5 @@ The movie "Queen's Gambit" was released on netflix in October 2020, in most of t
 - Did the release of the film really influence the increase in demand for the online game?
 
 - Which countries have been most influenced?
+
+- Did quarantine influence the increase in demand for the game?
