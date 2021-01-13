@@ -1,0 +1,37 @@
+[33m326a2e4[m[33m ([m[1;36mHEAD -> [m[1;32mmelissabranch[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m Merge pull request #10 from melissamonroe/melissabranch
+[33m79a9bfb[m[33m ([m[1;31morigin/melissabranch[m[33m)[m Merge branch 'main' into melissabranch
+[33m1948ef1[m adding player details for NZ and IE
+[33md62a25a[m chessdetails updates
+[33m6f8da5d[m Merge pull request #9 from melissamonroe/melissabranch
+[33m4984476[m Merge branch 'main' of github.com:melissamonroe/project-one into melissabranch
+[33m3cad14f[m Add ChessDetailsPy
+[33ma1ecadd[m commiting rest of changes
+[33mda87c03[m fixing df index
+[33m8f50bed[m adding sorted df and csv
+[33m2e6696a[m add player title resources csv
+[33m6ad9841[m Merge branch 'feature/Jenny' into main
+[33m2e528a2[m[33m ([m[1;31morigin/feature/Jenny[m[33m)[m renamed files
+[33m2fbe03d[m Merge branch 'feature/Jenny' into main
+[33mebca528[m adding player count and bar plot
+[33mdca47b4[m Merge pull request #8 from melissamonroe/melissabranch
+[33mfdfdce0[m group project work
+[33meb62378[m adding player count by country
+[33meb48166[m test
+[33m573f51c[m test
+[33mf5f9a4b[m Merge pull request #7 from melissamonroe/melissabranch
+[33mad142e4[m sample from country population, get player details
+[33me55398a[m test
+[33mbdd79a4[m Merge pull request #6 from melissamonroe/melissabranch
+[33m368eb5a[m add country csvs
+[33m9ff8c6e[m Merge pull request #5 from melissamonroe/feature/Jenny
+[33m9b8b8d7[m adding Norway usernames
+[33md5d2aa0[m Merge pull request #4 from melissamonroe/mmonroe/branch2
+[33m74529da[m[33m ([m[1;31morigin/mmonroe/branch2[m[33m, [m[1;32mmmonroe/branch2[m[33m)[m update readme.md
+[33m295c617[m Merge pull request #3 from melissamonroe/mmonroe/branch1
+[33m1ae2b44[m[33m ([m[1;31morigin/mmonroe/branch1[m[33m, [m[1;32mmmonroe/branch1[m[33m)[m pull usernames by country
+[33mb9fe3de[m Merge pull request #2 from melissamonroe/mmonroe/branch1
+[33m17658e6[m add check for existing csv file code block
+[33m83efc7e[m[33m ([m[1;31morigin/plopes/analysis[m[33m, [m[1;31morigin/melissa/branch1[m[33m)[m Merge pull request #1 from melissamonroe/melissabranch
+[33m282fe40[m update notebook, pull titled player username list, player data, save playerdata.csv
+[33mbe047b1[m titled players list, get player data from chess.com api
+[33m5599cb5[m[33m ([m[1;31morigin/melissatree[m[33m, [m[1;31morigin/Paula[m[33m, [m[1;32mmelissatree[m[33m)[m Initial commit
