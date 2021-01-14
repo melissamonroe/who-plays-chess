@@ -1,115 +1,123 @@
 ,Country,Country Code,Player Count
-0,India,IN,279712
-1,United Kingdom of Great Britain and Northern Ireland,GB,192118
-2,France,FR,176560
-3,Brazil,BR,147040
-4,Canada,CA,134687
-5,Germany,DE,117887
-6,Italy,IT,117604
-7,Spain,ES,112180
-8,Poland,PL,108111
-9,Russian Federation,RU,103656
-10,Turkey,TR,95593
-11,Netherlands,NL,71821
-12,Australia,AU,71003
-13,Mexico,MX,65853
-14,Argentina,AR,50724
-15,Philippines,PH,46917
-16,Norway,NO,43165
-17,Sweden,SE,42244
-18,Ukraine,UA,36756
-19,Indonesia,ID,33975
-20,Belgium,BE,33008
-21,Israel,IL,30015
-22,Colombia,CO,29908
-23,Egypt,EG,28314
-24,Iran (Islamic Republic of),IR,26116
-25,Switzerland,CH,25431
-26,Romania,RO,24026
-27,Greece,GR,22924
-28,Viet Nam,VN,21078
-29,Chile,CL,20813
-30,Denmark,DK,20806
-31,Ireland,IE,19961
-32,Portugal,PT,19328
-33,Serbia,RS,18847
-34,Saudi Arabia,SA,18555
-35,Czechia,CZ,18063
-36,South Africa,ZA,17866
-37,Finland,FI,16719
-38,Singapore,SG,16341
-39,Austria,AT,16167
-40,Hungary,HU,15893
-41,Peru,PE,15811
-42,Malaysia,MY,14732
-43,Kazakhstan,KZ,13270
-44,Croatia,HR,12836
-45,"Korea, Republic of",KR,12150
-46,New Zealand,NZ,11659
-47,Pakistan,PK,11287
-48,Bulgaria,BG,10757
-49,United Arab Emirates,AE,10692
-50,Azerbaijan,AZ,9681
-51,Morocco,MA,9459
-52,Georgia,GE,9426
-53,Slovakia,SK,8629
-54,Albania,AL,8454
-55,Lithuania,LT,8145
-56,Japan,JP,7480
-57,Slovenia,SI,7362
-58,Venezuela (Bolivarian Republic of),VE,7188
-59,China,CN,6845
-60,Hong Kong,HK,6651
-61,Ecuador,EC,6621
-62,Bangladesh,BD,6490
-63,Thailand,TH,6367
-64,Nigeria,NG,6221
-65,Armenia,AM,6220
-66,Belarus,BY,5956
-67,Bosnia and Herzegovina,BA,5946
-68,Tunisia,TN,5933
-69,Uruguay,UY,5928
-70,Lebanon,LB,5865
-71,Algeria,DZ,5828
-72,Iraq,IQ,5444
-73,Jordan,JO,4734
-74,North Macedonia,MK,4492
-75,Iceland,IS,4442
-76,Mongolia,MN,4362
-77,Dominican Republic,DO,4330
-78,Latvia,LV,4297
-79,Nepal,NP,4237
-80,Costa Rica,CR,4099
-81,Estonia,EE,3856
-82,Syrian Arab Republic,SY,3463
-83,Sri Lanka,LK,3432
-84,Puerto Rico,PR,3407
-85,"Taiwan, Province of China",TW,3370
-86,Myanmar,MM,3322
-87,Uzbekistan,UZ,3276
-88,Guatemala,GT,2882
-89,Bolivia (Plurinational State of),BO,2789
-90,Paraguay,PY,2749
-91,Kuwait,KW,2727
-92,Kenya,KE,2700
-93,"Moldova, Republic of",MD,2384
-94,"Palestine, State of",PS,2381
-95,Kyrgyzstan,KG,2285
-96,Qatar,QA,2263
-97,Cyprus,CY,2082
-98,Cuba,CU,2028
-99,Oman,OM,1995
-100,Luxembourg,LU,1994
-101,Montenegro,ME,1964
-102,Panama,PA,1893
-103,Afghanistan,AF,1890
-104,Honduras,HN,1824
-105,El Salvador,SV,1803
-106,Bahrain,BH,1531
-107,Zimbabwe,ZW,1448
-108,Jamaica,JM,1418
-109,Malta,MT,1397
-110,Sudan,SD,1369
-111,Nicaragua,NI,1317
-112,Libya,LY,1180
-113,Korea (Democratic People's Republic of),KP,1122
+0,British Indian Ocean Territory,IO,276922
+1,India,IN,276922
+2,United Kingdom of Great Britain and Northern Ireland,GB,192118
+3,France,FR,176560
+4,Brazil,BR,147040
+5,Canada,CA,134687
+6,Cocos (Keeling) Islands,CC,134687
+7,Germany,DE,117887
+8,Italy,IT,117604
+9,Spain,ES,112180
+10,Poland,PL,108111
+11,Russian Federation,RU,103656
+12,Turkey,TR,95593
+13,Netherlands,NL,71821
+14,Australia,AU,71003
+15,Mexico,MX,65853
+16,Argentina,AR,50724
+17,Philippines,PH,46917
+18,Norway,NO,43165
+19,Sweden,SE,42244
+20,Ukraine,UA,36756
+21,Indonesia,ID,33975
+22,Belgium,BE,33008
+23,Israel,IL,30015
+24,Colombia,CO,29908
+25,Egypt,EG,28314
+26,Iran (Islamic Republic of),IR,26116
+27,Switzerland,CH,25431
+28,Romania,RO,24026
+29,Greece,GR,22924
+30,Viet Nam,VN,21078
+31,Chile,CL,20813
+32,Denmark,DK,20806
+33,Ireland,IE,19961
+34,Portugal,PT,19328
+35,Serbia,RS,18847
+36,Saudi Arabia,SA,18555
+37,Czechia,CZ,18063
+38,South Africa,ZA,17866
+39,Finland,FI,16719
+40,Singapore,SG,16341
+41,"Saint Helena, Ascension and Tristan da Cunha",SH,16341
+42,Austria,AT,16167
+43,Hungary,HU,15893
+44,French Polynesia,PF,15811
+45,Peru,PE,15811
+46,Malaysia,MY,14732
+47,Kazakhstan,KZ,13270
+48,Croatia,HR,12836
+49,"Korea, Republic of",KR,12150
+50,New Zealand,NZ,11659
+51,Pakistan,PK,11287
+52,Bulgaria,BG,10757
+53,United Arab Emirates,AE,10692
+54,Azerbaijan,AZ,9681
+55,Morocco,MA,9459
+56,Georgia,GE,9426
+57,Slovakia,SK,8629
+58,Albania,AL,8454
+59,Lithuania,LT,8145
+60,Japan,JP,7480
+61,Svalbard and Jan Mayen,SJ,7362
+62,Slovenia,SI,7362
+63,Venezuela (Bolivarian Republic of),VE,7188
+64,China,CN,6845
+65,Heard Island and McDonald Islands,HM,6651
+66,Hong Kong,HK,6651
+67,Ecuador,EC,6621
+68,Bangladesh,BD,6490
+69,Thailand,TH,6367
+70,Nigeria,NG,6221
+71,Armenia,AM,6220
+72,Belarus,BY,5956
+73,Bosnia and Herzegovina,BA,5946
+74,Tunisia,TN,5933
+75,Uruguay,UY,5928
+76,Lebanon,LB,5865
+77,Algeria,DZ,5828
+78,Iraq,IQ,5444
+79,Jordan,JO,4734
+80,North Macedonia,MK,4492
+81,Iceland,IS,4442
+82,Mongolia,MN,4362
+83,Dominican Republic,DO,4330
+84,Latvia,LV,4297
+85,Nepal,NP,4237
+86,Costa Rica,CR,4099
+87,Estonia,EE,3856
+88,Syrian Arab Republic,SY,3463
+89,Sri Lanka,LK,3432
+90,Puerto Rico,PR,3407
+91,"Taiwan, Province of China",TW,3370
+92,Myanmar,MM,3322
+93,Uzbekistan,UZ,3276
+94,Guatemala,GT,2882
+95,Bolivia (Plurinational State of),BO,2789
+96,"Bonaire, Sint Eustatius and Saba",BQ,2789
+97,Paraguay,PY,2749
+98,Kuwait,KW,2727
+99,Kenya,KE,2700
+100,"Moldova, Republic of",MD,2384
+101,"Palestine, State of",PS,2381
+102,Kyrgyzstan,KG,2285
+103,Qatar,QA,2263
+104,Cyprus,CY,2082
+105,Cuba,CU,2028
+106,Oman,OM,1995
+107,Luxembourg,LU,1994
+108,Saint Martin (French part),MF,1964
+109,Montenegro,ME,1964
+110,Panama,PA,1893
+111,Afghanistan,AF,1890
+112,Honduras,HN,1824
+113,El Salvador,SV,1803
+114,Bahrain,BH,1531
+115,Zimbabwe,ZW,1448
+116,Jamaica,JM,1418
+117,Malta,MT,1397
+118,Sudan,SD,1369
+119,Nicaragua,NI,1317
+120,Libya,LY,1180
+121,Korea (Democratic People's Republic of),KP,1122
