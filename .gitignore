@@ -1,11 +1,3 @@
-# mac system file
-.DS_Store
-figures\.DS_Store
-output_data\.DS_Store
-resources\.DS_Store
-images\.DS_Store
-highest followers pictures\.DS_Store
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
