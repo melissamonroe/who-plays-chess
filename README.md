@@ -132,10 +132,6 @@ Create data-frames for each country to show the joined date, then plotted the jo
 
 ![Premium Account](figures/titled_players_per_country.png)
 
-## Discussion
-
-* Possible correlation to Netflix's Queen’s Gambit Netflix, but insufficent data to make any measurable conclusions.
-
 ## Observations
 
 * India had the highest player count of the countries we analyzed (excluding United States, unfortunatly could not get userlist from api for United States)
