@@ -5,7 +5,7 @@
 d3.selectAll("#selDataset").on("change", updatePlotly);
 
 function LF_PopulateTitles() {
-  Plotly.d3.csv('/resources/titles.csv', function(err, rows){
+  Plotly.d3.csv('../resources/titles.csv', function(err, rows){
     function unpack(rows, key) {
      return rows.map(function(row) {return row[key]; });
     };
@@ -46,7 +46,7 @@ function LF_PopulateTitledPlayersPlot() {
   
   console.log("selectorValue " + selectorValue);
 
-  Plotly.d3.csv('/output_data/players_Titled.csv', function(err, rows){
+  Plotly.d3.csv('../output_data/players_Titled.csv', function(err, rows){
     function unpack(rows, key) {
       var row = rows.map(function(row) {return row[key]; })
       return row;
